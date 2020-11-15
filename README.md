@@ -6,3 +6,4 @@
 ## Test Results
 > Test result was obtained using the Signal Tap Logic Analyzer.
 
+<img src="https://github.com/SandaruJayawardana/arm-assembly-cnn/blob/main/img/Data_load_step_1.PNG" alt="alt text" width="310" height="300">
