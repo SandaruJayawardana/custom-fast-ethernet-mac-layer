@@ -6,4 +6,4 @@
 ## Test Results
 > Test result was obtained using the Signal Tap Logic Analyzer.
 
-<img src="https://github.com/SandaruJayawardana/arm-assembly-cnn/blob/main/img/Data_load_step_1.PNG" alt="alt text" width="310" height="300">
+<img src="https://github.com/SandaruJayawardana/custom-fast-ethernet-mac-layer/blob/main/ethernet_mac_results.png" alt="alt text" width="800" height="300">
